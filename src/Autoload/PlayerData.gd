@@ -7,7 +7,6 @@ signal reset
 
 var score: = 0 setget set_score
 var deaths: = 0 setget set_deaths
-# warning-ignore:unused_class_variable
 var new_score
 
 func reset():
