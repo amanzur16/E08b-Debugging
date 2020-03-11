@@ -17,7 +17,7 @@ func reset():
 
 
 func set_score(new_score: int) -> void:
-	score = new_score
+	score = new_score 
 	emit_signal("updated")
 
 
